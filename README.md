@@ -6,7 +6,8 @@
 
 The Deadline Doys macro pad is a custom mechanical device designed for shortcuts and macro functions. It supports both USB and Bluetooth connectivity, features RGB backlighting, and is compatible with VIA for key mapping. Deadline Studio website - https://deadline.space/
 
-![Doys Pad Physical Layout](images/doys-e-white.jpg "Images of macro pad without keys")
+
+<img src="./images/doys-e-white.jpg" alt="Image of macro pad without keys" width="300">
 
 
 ## Features
