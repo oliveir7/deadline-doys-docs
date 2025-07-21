@@ -62,7 +62,7 @@
   ],
   "encoders": [
     [
-      ["KC_VOLD", "KC_VOLU"],
+      ["KC_VOLU", "KC_VOLD"],
       ["RGB_VAD", "RGB_VAI"],
       ["KC_TRNS", "KC_TRNS"],
       ["KC_TRNS", "KC_TRNS"]
