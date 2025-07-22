@@ -2,12 +2,12 @@
   "name": "DoysPad",
   "vendorProductId": 2862000886,
   "macros": [
-    "{KC_LCTL,KC_LALT,KC_I}",
-    "{KC_LCTL,KC_LALT,KC_E}",
-    "{KC_LALT,KC_LSFT,KC_G}",
+    "{KC_LCTL,KC_LSFT,KC_I}",
+    "{KC_LCTL,KC_LSFT,KC_E}",
     "{KC_LCTL,KC_LSFT,KC_S}",
+    "{KC_LALT,KC_LSFT,KC_G}",
     "{KC_LCTL,KC_LSFT,KC_O}",
-    "",
+    "{KC_LALT,KC_F3}",
     "",
     "",
     "",
@@ -31,7 +31,7 @@
       "MO(1)",
       "MACRO(3)",
       "MACRO(4)",
-      "MACRO(5)",
+      "KC_MPLY",
       "KC_NO"
     ],
     [
