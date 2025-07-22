@@ -1,0 +1,94 @@
+{
+  "name": "DoysPad",
+  "vendorProductId": 2862000886,
+  "macros": [
+    "{KC_LCTL,KC_LALT,KC_I}",
+    "{KC_LCTL,KC_LALT,KC_E}",
+    "{KC_LALT,KC_LSFT,KC_G}",
+    "{KC_LCTL,KC_LSFT,KC_S}",
+    "{KC_LCTL,KC_LSFT,KC_O}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "layers": [
+    [
+      "KC_MYCM",
+      "KC_DEL",
+      "KC_WWW_SEARCH",
+      "KC_MUTE",
+      "MACRO(0)",
+      "MACRO(1)",
+      "MACRO(2)",
+      "MO(1)",
+      "MACRO(3)",
+      "MACRO(4)",
+      "MACRO(5)",
+      "KC_NO"
+    ],
+    [
+      "RGB_RMOD",
+      "KC_TRNS",
+      "RGB_MOD",
+      "CUSTOM(4)",
+      "CUSTOM(7)",
+      "CUSTOM(8)",
+      "CUSTOM(4)",
+      "KC_TRNS",
+      "CUSTOM(9)",
+      "CUSTOM(5)",
+      "RGB_HUI",
+      "KC_NO"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_NO"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_NO"
+    ]
+  ],
+  "encoders": [
+    [
+      ["KC_VOLU", "KC_VOLD"],
+      ["RGB_VAD", "RGB_VAI"],
+      ["KC_TRNS", "KC_TRNS"],
+      ["KC_TRNS", "KC_TRNS"]
+    ],
+    [
+      ["RGB_VAI", "RGB_VAD"],
+      ["RGB_MOD", "RGB_RMOD"],
+      ["KC_TRNS", "KC_TRNS"],
+      ["KC_TRNS", "KC_TRNS"]
+    ]
+  ]
+}
