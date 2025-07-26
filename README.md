@@ -26,6 +26,11 @@ The Deadline Doys macro pad is a custom mechanical device designed for shortcuts
 - **Layout Options:** Standard or 2U top key
 - **Switch Compatibility:** MX and MX clone switches
 
+## Useful Links
+
+- [QMK Keycodes Overview](https://docs.qmk.fm/keycodes) – Reference for all keycodes, useful for configuring knobs and advanced key functions.
+- [VIA Usage Guide – Layers](https://docs.keeb.io/via#layersfn) – Explains how layers work in VIA and how to use them for advanced configurations.
+
 ## Quick Start
 
 ### Essential Controls
