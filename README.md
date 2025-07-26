@@ -30,6 +30,8 @@ The Deadline Doys macro pad is a custom mechanical device designed for shortcuts
 
 - [QMK Keycodes Overview](https://docs.qmk.fm/keycodes) – Reference for all keycodes, useful for configuring knobs and advanced key functions.
 - [VIA Usage Guide – Layers](https://docs.keeb.io/via#layersfn) – Explains how layers work in VIA and how to use them for advanced configurations.
+- [VIA](https://usevia.app/)
+- [Deadline Discord server](https://discord.com/channels/958628217730777088/1193866802984386620). Select channel named `#doys-pad`.
 
 ## Quick Start
 
@@ -42,7 +44,6 @@ The Deadline Doys macro pad is a custom mechanical device designed for shortcuts
 ### Required Files
 
 - **JSON Device Definition:** `./info-via-DoysPadBle.json` (pulled from Discord channel below)
-- **Discord Channel:** <https://discord.com/channels/958628217730777088/1193866802984386620>
 
 ## Setup Guide
 
@@ -148,12 +149,6 @@ For detailed troubleshooting including rotary encoder problems, Bluetooth issues
 - Advanced RGB features require direct QMK access (unavailable)
 - Firmware source code not publicly available
 - Cannot fix certain hardware issues (rotary encoder problems)
-
-## Community Resources
-
-- **Discord Main Channel:** [Deadline Discord server](https://discord.com/channels/958628217730777088/1193866802984386620). Select channel named `#doys`.
-
-- **Known Issues:** [KNOWN-ISSUES.md](KNOWN-ISSUES.md). Community sourced troubleshooting guide for some reported issues
 
 ## Contributing
 
