@@ -19,6 +19,7 @@ This documentation is community-maintained. We welcome contributions from anyone
 ## Discord Sources
 
 Most information comes from the Deadline Discord channel. When adding info from Discord:
+
 - Include the approximate date
 - Reference the specific channel if known
 - Don't include usernames unless they gave explicit permission
