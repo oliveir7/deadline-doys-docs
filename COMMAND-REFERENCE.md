@@ -30,7 +30,8 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `Alt+F10` | NVIDIA App | Record instant replay |
 | `Alt+F3` | NVIDIA App | Open filters (RTX HDR) |
 | `Alt+Shift+F10` | NVIDIA App | Toggle instant replay |
-| `Alt+R` | NVIDIA App | Toggle recording |
+| `Alt+R` | NVIDIA App | Toggle performance stats overlay |
+| `Alt+Z` | NVIDIA App | Open NVIDIA sidebar |
 
 
 ## Navigation
@@ -53,18 +54,6 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `Mute` | Mutes audio |
 | `Volume Up/Down` | Adjusts volume from the encoder |
 
-## Capture and Recording
-
-| Macro | What it does |
-| --- | --- |
-| `Screenshot` | Captures a screenshot |
-| `Record instant replay` | Saves the recent replay buffer |
-| `Toggle recording` | Starts or stops recording |
-| `Toggle instant replay` | Enables or disables instant replay |
-| `Activate 2x frame gen` | Turns on 2x frame generation |
-| `Open filters (RTX HDR)` | Opens the RTX HDR filters panel |
-| `Toggle overlay` | Shows or hides the overlay |
-| `Toggle performance stats` | Shows or hides performance stats |
 
 ## Lighting and RGB
 
@@ -77,7 +66,7 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `RGB mode next` | Switches to the next RGB mode |
 | `Toggle RGBs` | Turns RGB lighting on or off |
 | `Change color / hue +` | Increases hue |
-| `Backlight Brightness` | Changes backlight brightness |
+| `Backlight Brightness` | Changes doys pad backlight brightness |
 
 ## Layers
 

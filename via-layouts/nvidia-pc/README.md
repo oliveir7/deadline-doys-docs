@@ -23,12 +23,12 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | Cell | Function |
 | --- | --- |
 | `Key 1` | `KC_MYCM` (open my computer) |
-| `Key 2` | `KC_WWW_SEARCH` (open search) |
+| `Key 2` | `M6` (Open NVIDIA sidebar) |
 | `Key 3` | `M2` (Take screenshot) |
 | `Key 4` | `M1` (Record instant replay) |
 | `Key 5` | `M3` (Toggle instant replay) |
 | `Key 6` | `M0` (Open filters (RTX HDR)) |
-| `Key 7` | `Toggle performance stats` |
+| `Key 7` | `M4` (Toggle performance stats) |
 | `Key 8` | `M5` (Toggle HDR in Windows 11) |
 
 ## Layer 1 (press knob 2)
@@ -61,9 +61,9 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `M1` | `Alt+F10` | Record instant replay |
 | `M2` | `Alt+F1` | Take screenshot |
 | `M3` | `Alt+Shift+F10` | Toggle instant replay |
-| `M4` | `Alt+R` | Toggle recording |
+| `M4` | `Alt+R` | Toggle performance stats overlay |
 | `M5` | `Win+Alt+B` | Toggle HDR in Windows 11 |
-| `M6` | Unused | Unused |
+| `M6` | `Alt+Z` | Open NVIDIA sidebar |
 | `M7` | Unused | Unused |
 | `M8` | Unused | Unused |
 | `M9` | Unused | Unused |
