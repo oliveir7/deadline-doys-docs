@@ -2,22 +2,8 @@
 
 This file indexes the hotkey actions used in the documented mappings.
 
-## Hotkey Actions
 
-| Command(s) | App(s) | What it does |
-| --- | --- | --- |
-| `Ctrl+Shift+I` | AMD Adrenaline | Take screenshot |
-| `Ctrl+Shift+E` | AMD Adrenaline | Record instant replay |
-| `Ctrl+Shift+S` | AMD Adrenaline | Toggle recording |
-| `Alt+Shift+G` | AMD Adrenaline | Activate 2x frame gen |
-| `Ctrl+Shift+O` | AMD Adrenaline | Toggle overlay |
-| `Alt+F1` | NVIDIA App | Take screenshot |
-| `Alt+F10` | NVIDIA App | Record instant replay |
-| `Alt+F3` | NVIDIA App | Open filters (RTX HDR) |
-| `Alt+Shift+F10` | NVIDIA App | Toggle instant replay |
-| `Alt+R` | NVIDIA App | Toggle recording |
-
-## Layout
+## Doys Pad Layout
 
 Encoder 1 and Encoder 2 are the rotary encoders.
 
@@ -30,6 +16,23 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 │        │ Key 6  │ Key 7 │ Key 8 │
 └────────┴────────┴───────┴───────┘
 ```
+
+## App Hotkeys
+
+| Command(s) | App(s) | What it does |
+| --- | --- | --- |
+| `Ctrl+Shift+I` | AMD Adrenaline | Take screenshot |
+| `Ctrl+Shift+E` | AMD Adrenaline | Record instant replay |
+| `Ctrl+Shift+S` | AMD Adrenaline | Toggle recording |
+| `Alt+Shift+G` | AMD Adrenaline | Activate 2x frame gen |
+| `Ctrl+Shift+O` | AMD Adrenaline | Toggle overlay |
+| `Alt+F1` | NVIDIA App | Take screenshot |
+| `Alt+F10` | NVIDIA App | Record instant replay |
+| `Alt+F3` | NVIDIA App | Open filters (RTX HDR) |
+| `Alt+Shift+F10` | NVIDIA App | Toggle instant replay |
+| `Alt+R` | NVIDIA App | Toggle performance stats overlay |
+| `Alt+Z` | NVIDIA App | Open NVIDIA sidebar |
+
 
 ## Navigation
 
@@ -51,18 +54,6 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `Mute` | Mutes audio |
 | `Volume Up/Down` | Adjusts volume from the encoder |
 
-## Capture and Recording
-
-| Macro | What it does |
-| --- | --- |
-| `Screenshot` | Captures a screenshot |
-| `Record instant replay` | Saves the recent replay buffer |
-| `Toggle recording` | Starts or stops recording |
-| `Toggle instant replay` | Enables or disables instant replay |
-| `Activate 2x frame gen` | Turns on 2x frame generation |
-| `Open filters (RTX HDR)` | Opens the RTX HDR filters panel |
-| `Toggle overlay` | Shows or hides the overlay |
-| `Toggle performance stats` | Shows or hides performance stats |
 
 ## Lighting and RGB
 
@@ -75,7 +66,7 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `RGB mode next` | Switches to the next RGB mode |
 | `Toggle RGBs` | Turns RGB lighting on or off |
 | `Change color / hue +` | Increases hue |
-| `Backlight Brightness` | Changes backlight brightness |
+| `Backlight Brightness` | Changes doys pad backlight brightness |
 
 ## Layers
 
@@ -101,6 +92,7 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | --- | --- |
 | `WinLock` | Toggles Windows key lock |
 | `CG_TOG` | Swaps Ctrl and Gui |
+| `Win+Alt+B` | Toggles HDR in Windows 11 |
 | `Mission Control` | Opens macOS Mission Control |
 | `Launch Pad` | Opens macOS Launch Pad |
 | `TRGB_TOG` | Toggles top RGB |
