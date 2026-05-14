@@ -7,6 +7,8 @@ This guide defines the shared structure for the `via-layouts/*/README.md` files 
 - The `*.layout.json` file is the source of truth for macro slot order.
 - The README documents the same layout in human-readable form.
 - Any macro slot change must be reflected in both places.
+- The `macros` array must always contain exactly 16 entries (`M0` through `M15`).
+- Never delete empty trailing slots; keep placeholders so slot numbers stay stable.
 
 ## Required README Order
 
@@ -64,6 +66,17 @@ Suggested format:
 - List all 16 slots from `M0` to `M15`.
 - Keep the command column aligned with the JSON slot order.
 - Mark unused slots as `Unused`.
+- If a slot is unused, keep the entry and mark it `Unused` instead of removing it.
+
+## Validation
+
+Run this check before finishing layout changes:
+
+```bash
+jq '.macros | length' via-layouts/*/*.layout.json
+```
+
+Each file should report `16`.
 
 ## Sync Rules
 
