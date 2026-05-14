@@ -2,6 +2,27 @@
 
 This document describes the key mappings and layers for the "AMD PC" VIA configuration for the DoysPad.
 
+## Macros
+
+| Macro | Command | What it does |
+| --- | --- | --- |
+| `M0` | `Ctrl+Shift+I` | Take screenshot |
+| `M1` | `Ctrl+Shift+E` | Record instant replay |
+| `M2` | `Ctrl+Shift+S` | Toggle recording |
+| `M3` | `Alt+Shift+G` | Activate 2x frame gen |
+| `M4` | `Ctrl+Shift+O` | Toggle overlay |
+| `M5` | `Alt+F3` | Unused |
+| `M6` | Unused | Unused |
+| `M7` | Unused | Unused |
+| `M8` | Unused | Unused |
+| `M9` | Unused | Unused |
+| `M10` | Unused | Unused |
+| `M11` | Unused | Unused |
+| `M12` | Unused | Unused |
+| `M13` | Unused | Unused |
+| `M14` | Unused | Unused |
+| `M15` | Unused | Unused |
+
 
 ## Layer 0 (Default)
 
