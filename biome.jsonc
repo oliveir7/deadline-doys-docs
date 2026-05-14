@@ -1,0 +1,9 @@
+{
+  "json": {
+    "formatter": {
+      "enabled": true,
+      "indentStyle": "space", // default is `tab`
+      "indentWidth": 2
+    }
+  }
+}
