@@ -27,7 +27,7 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `Key 5` | `M2` (Toggle recording) |
 | `Key 6` | `M3` (Activate 2x frame gen) |
 | `Key 7` | `M4` (Toggle overlay) |
-| `Key 8` | `KC_MPLY` (play/pause) |
+| `Key 8` | `M5` (Toggle HDR in Windows 11) |
 
 ## Layer 1 (press knob 2)
 
@@ -60,7 +60,7 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `M2` | `Ctrl+Shift+S` | Toggle recording |
 | `M3` | `Alt+Shift+G` | Activate 2x frame gen |
 | `M4` | `Ctrl+Shift+O` | Toggle overlay |
-| `M5` | `Alt+F3` | Unused |
+| `M5` | `Win+Alt+B` | Toggle HDR in Windows 11 |
 | `M6` | Unused | Unused |
 | `M7` | Unused | Unused |
 | `M8` | Unused | Unused |

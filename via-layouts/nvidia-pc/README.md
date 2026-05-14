@@ -27,7 +27,7 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `Key 5` | `M3` (Toggle instant replay) |
 | `Key 6` | `M0` (Open filters (RTX HDR)) |
 | `Key 7` | `Toggle performance stats` |
-| `Key 8` | `KC_MPLY` (play/pause) |
+| `Key 8` | `M5` (Toggle HDR in Windows 11) |
 
 ## Layer 1 (press knob 2)
 
