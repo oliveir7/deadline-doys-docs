@@ -27,6 +27,7 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `Alt+Shift+G` | AMD Adrenaline | Activate 2x frame gen |
 | `Ctrl+Shift+O` | AMD Adrenaline | Toggle overlay |
 | `Alt+F1` | NVIDIA App | Take screenshot |
+| `Alt+F9` | NVIDIA App | Toggle video recording |
 | `Alt+F10` | NVIDIA App | Record instant replay |
 | `Alt+F3` | NVIDIA App | Open filters (RTX HDR) |
 | `Alt+Shift+F10` | NVIDIA App | Toggle instant replay |
@@ -93,6 +94,9 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `WinLock` | Toggles Windows key lock |
 | `CG_TOG` | Swaps Ctrl and Gui |
 | `Win+Alt+B` | Toggles HDR in Windows 11 |
+| `Ctrl+Shift+Win+B` | Resets the graphics driver when the display glitches mid-session |
+| `Win+Ctrl+V` | Opens the per-app volume mixer |
+| `Win+Alt+T` | Opens a lightweight native performance overlay |
 | `Mission Control` | Opens macOS Mission Control |
 | `Launch Pad` | Opens macOS Launch Pad |
 | `TRGB_TOG` | Toggles top RGB |

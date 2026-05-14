@@ -64,9 +64,9 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `M4` | `Ctrl+Shift+O` | Toggle overlay |
 | `M5` | `Win+Alt+B` | Toggle HDR in Windows 11 |
 | `M6` | Unused | Unused |
-| `M7` | Unused | Unused |
-| `M8` | Unused | Unused |
-| `M9` | Unused | Unused |
+| `M7` | `Ctrl+Shift+Win+B` | Resets the graphics driver when the display glitches mid-session |
+| `M8` | `Win+Ctrl+V` | Opens the per-app volume mixer |
+| `M9` | `Win+Alt+T` | Opens a lightweight native performance overlay |
 | `M10` | Unused | Unused |
 | `M11` | Unused | Unused |
 | `M12` | Unused | Unused |

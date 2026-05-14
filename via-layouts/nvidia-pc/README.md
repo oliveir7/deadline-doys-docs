@@ -27,7 +27,7 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | `Key 3` | `M2` (Take screenshot) |
 | `Key 4` | `M1` (Record instant replay) |
 | `Key 5` | `M3` (Toggle instant replay) |
-| `Key 6` | `M0` (Open filters (RTX HDR)) |
+| `Key 6` | `M0` (Toggle video recording) |
 | `Key 7` | `M4` (Toggle performance stats) |
 | `Key 8` | `M5` (Toggle HDR in Windows 11) |
 
@@ -57,16 +57,16 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 
 | Macro | Command | What it does |
 | --- | --- | --- |
-| `M0` | `Alt+F3` | Open filters (RTX HDR) |
+| `M0` | `Alt+F9` | Toggle video recording |
 | `M1` | `Alt+F10` | Record instant replay |
 | `M2` | `Alt+F1` | Take screenshot |
 | `M3` | `Alt+Shift+F10` | Toggle instant replay |
 | `M4` | `Alt+R` | Toggle performance stats overlay |
 | `M5` | `Win+Alt+B` | Toggle HDR in Windows 11 |
 | `M6` | `Alt+Z` | Open NVIDIA sidebar |
-| `M7` | Unused | Unused |
-| `M8` | Unused | Unused |
-| `M9` | Unused | Unused |
+| `M7` | `Ctrl+Shift+Win+B` | Resets the graphics driver when the display glitches mid-session |
+| `M8` | `Win+Ctrl+V` | Opens the per-app volume mixer |
+| `M9` | `Win+Alt+T` | Opens a lightweight native performance overlay |
 | `M10` | Unused | Unused |
 | `M11` | Unused | Unused |
 | `M12` | Unused | Unused |
