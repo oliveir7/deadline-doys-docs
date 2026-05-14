@@ -2,6 +2,8 @@
 
 This is a custom layout based on the default configuration with modified rotary encoder behavior for better backlight control.
 
+See [Layout Guide](../../LAYOUT-GUIDE.md) for the shared documentation structure.
+
 ## Reference Diagram
 
 Encoder 1 and Encoder 2 are the rotary encoders.

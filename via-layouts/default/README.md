@@ -1,4 +1,6 @@
 
+See [Layout Guide](../../LAYOUT-GUIDE.md) for the shared documentation structure.
+
 ## Reference Diagram
 
 Encoder 1 and Encoder 2 are the rotary encoders.
