@@ -42,18 +42,14 @@ The Deadline Doys macro pad is a custom mechanical device designed for shortcuts
 - **Toggle backlight:** Hold 2nd knob + press bottom right key (USB only)
 - **Disable Bluetooth:** Hold 2nd knob + press bottom left key
 
-### Required Files
 
-- **JSON Device Definition:** `./info-via-DoysPadBle.json` (pulled from Discord channel below)
 
 ## Setup Guide
 
 ### Initial Setup
 
-1. **Download the JSON file** `./info-via-DoysPadBle.json`
-
-2. **Close interfering applications** (SignalRGB, etc.)
-3. **Connect USB cabled** must be wired for VIA configuration
+1. **Download the JSON file** [via-draft-definition-doys-pad.json](./via-draft-definition-doys-pad.json)
+2. **Connect USB cabled** must be wired for VIA configuration
 
 ### VIA Configuration
 
