@@ -2,7 +2,22 @@
 
 This file indexes the hotkey actions used in the documented mappings.
 
-## Hotkey Actions
+
+## Doys Pad Layout
+
+Encoder 1 and Encoder 2 are the rotary encoders.
+
+```text
+┌────────┬────────┬───────┬───────┐
+│ Knob 1 │        │ Key 1 │ Key 2 │
+├────────┼────────┼───────┼───────┤
+│ Knob 2 │ Key 3  │ Key 4 │ Key 5 │
+├────────┼────────┼───────┼───────┤
+│        │ Key 6  │ Key 7 │ Key 8 │
+└────────┴────────┴───────┴───────┘
+```
+
+## App Hotkeys
 
 | Command(s) | App(s) | What it does |
 | --- | --- | --- |
@@ -17,19 +32,6 @@ This file indexes the hotkey actions used in the documented mappings.
 | `Alt+Shift+F10` | NVIDIA App | Toggle instant replay |
 | `Alt+R` | NVIDIA App | Toggle recording |
 
-## Layout
-
-Encoder 1 and Encoder 2 are the rotary encoders.
-
-```text
-┌────────┬────────┬───────┬───────┐
-│ Knob 1 │        │ Key 1 │ Key 2 │
-├────────┼────────┼───────┼───────┤
-│ Knob 2 │ Key 3  │ Key 4 │ Key 5 │
-├────────┼────────┼───────┼───────┤
-│        │ Key 6  │ Key 7 │ Key 8 │
-└────────┴────────┴───────┴───────┘
-```
 
 ## Navigation
 
@@ -101,6 +103,7 @@ Encoder 1 and Encoder 2 are the rotary encoders.
 | --- | --- |
 | `WinLock` | Toggles Windows key lock |
 | `CG_TOG` | Swaps Ctrl and Gui |
+| `Win+Alt+B` | Toggles HDR in Windows 11 |
 | `Mission Control` | Opens macOS Mission Control |
 | `Launch Pad` | Opens macOS Launch Pad |
 | `TRGB_TOG` | Toggles top RGB |

@@ -2,6 +2,55 @@
 
 This document describes the key mappings and layers for the "AMD PC" VIA configuration for the DoysPad.
 
+## Reference Diagram
+
+Encoder 1 and Encoder 2 are the rotary encoders.
+
+```text
+┌────────┬────────┬───────┬───────┐
+│ Knob 1 │        │ Key 1 │ Key 2 │
+├────────┼────────┼───────┼───────┤
+│ Knob 2 │ Key 3  │ Key 4 │ Key 5 │
+├────────┼────────┼───────┼───────┤
+│        │ Key 6  │ Key 7 │ Key 8 │
+└────────┴────────┴───────┴───────┘
+```
+
+## Layer 0 (Default)
+
+| Cell | Function |
+| --- | --- |
+| `Key 1` | `KC_MYCM` (open my computer) |
+| `Key 2` | `KC_WWW_SEARCH` (open search) |
+| `Key 3` | `M0` (Take screenshot) |
+| `Key 4` | `M1` (Record instant replay) |
+| `Key 5` | `M2` (Toggle recording) |
+| `Key 6` | `M3` (Activate 2x frame gen) |
+| `Key 7` | `M4` (Toggle overlay) |
+| `Key 8` | `KC_MPLY` (play/pause) |
+
+## Layer 1 (press knob 2)
+
+| Cell | Function |
+| --- | --- |
+| `Key 1` | `RGB mode prev` |
+| `Key 2` | `RGB mode next` |
+| `Key 3` | `Bluetooth connection 1` |
+| `Key 4` | `Bluetooth connection 2` |
+| `Key 5` | `Toggle RGBs` |
+| `Key 6` | `Disconnect bluetooth` |
+| `Key 7` | `Battery level` |
+| `Key 8` | `Change color / hue +` |
+
+## Encoders
+
+| Control | Layer 0 | Layer 1 |
+| --- | --- | --- |
+| `Knob 1 rotate` | `KC_VOLU / KC_VOLD` | `RGB_VAI / RGB_VAD` |
+| `Knob 1 press` | `Mute` | `—` |
+| `Knob 2 rotate` | `RGB_VAD / RGB_VAI` | `RGB_MOD / RGB_RMOD` |
+| `Knob 2 press/hold` | `Enable next layer` | `—` |
+
 ## Macros
 
 | Macro | Command | What it does |
@@ -22,41 +71,3 @@ This document describes the key mappings and layers for the "AMD PC" VIA configu
 | `M13` | Unused | Unused |
 | `M14` | Unused | Unused |
 | `M15` | Unused | Unused |
-
-
-## Layer 0 (Default)
-
-| Keycap # | Key Mapping      |
-|----------|------------------|
-| 1        | KC_MYCM (open my computer)          |
-| 2        | KC_WWW_SEARCH (open search)   |
-| 3        | Screenshot       |
-| 4        | Record instant replay         |
-| 5        | Toggle recording         |
-| 6        | Activate 2x frame gen         |
-| 7       | Toggle overlay         |
-| 8       | KC_MPLY (play/pause)         |
-
-**Encoders:**
-- Encoder 1: KC_VOLU / KC_VOLD (volume up / down)
-  - Encoder (top) press, mute    
-- Encoder 2: RGB_VAD / RGB_VAI (RGB brightness up / down)
-  -  Encoder (bottom) press activate next layer
- 
-
-## Layer 1 (press knob 2)
-
-| Keycap # | Key Mapping      |
-|----------|------------------|
-| 1        | RGB mode prev   |
-| 2        | RGB mode next   |
-| 3        | Bluetooth connection 1       |
-| 4        | Bluetooth connection 2         |
-| 5        | Toggle RGBs         |
-| 6        |  Disconnect bluetooth        |
-| 7       | Battery level        |
-| 8       | Change color / hue +         |
-
- 
-
- 
