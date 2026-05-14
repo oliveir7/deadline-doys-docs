@@ -2,6 +2,27 @@
 
 This document describes the key mappings and layers for the "Nvidia PC" VIA configuration for the DoysPad.
 
+## Macros
+
+| Macro | Command | What it does |
+| --- | --- | --- |
+| `M0` | `Ctrl+Shift+I` | Unused |
+| `M1` | `Ctrl+Shift+E` | Unused |
+| `M2` | `Ctrl+Shift+S` | Unused |
+| `M3` | `Alt+Shift+G` | Unused |
+| `M4` | `Ctrl+Shift+O` | Unused |
+| `M5` | `Alt+F3` | Unused |
+| `M6` | `Alt+F10` | Record instant replay |
+| `M7` | `Alt+F1` | Take screenshot |
+| `M8` | `Alt+F3` | Open filters (RTX HDR) |
+| `M9` | `Alt+Shift+F10` | Toggle instant replay |
+| `M10` | `Alt+R` | Toggle recording |
+| `M11` | Unused | Unused |
+| `M12` | Unused | Unused |
+| `M13` | Unused | Unused |
+| `M14` | Unused | Unused |
+| `M15` | Unused | Unused |
+
 
 ## Layer 0 (Default)
 

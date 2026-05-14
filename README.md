@@ -30,6 +30,7 @@ The Deadline Doys macro pad is a custom mechanical device designed for shortcuts
 
 - [QMK Keycodes Overview](https://docs.qmk.fm/keycodes) – Reference for all keycodes, useful for configuring knobs and advanced key functions.
 - [VIA Usage Guide – Layers](https://docs.keeb.io/via#layersfn) – Explains how layers work in VIA and how to use them for advanced configurations.
+- [Command Reference](./COMMAND-REFERENCE.md) – Consolidated index of commands used across the documented profiles.
 - [VIA](https://usevia.app/) - Web Interface for editing keyboard mappings
 - [Deadline Discord server](https://discord.com/channels/958628217730777088/1193866802984386620) - Select channel named `#doys-pad`.
 
